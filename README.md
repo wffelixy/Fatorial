@@ -1,1 +1,28 @@
-# Fatorial
+# Calculadora de Fatorial
+
+Este é um simples projeto em Java que calcula o fatorial de um número inteiro fornecido pelo usuário.
+
+## Funcionalidades
+
+- Calcula o fatorial de um número inteiro positivo.
+- Lança uma exceção caso o número fornecido seja negativo.
+
+## Pré-requisitos
+
+- Java Development Kit (JDK) instalado
+- IDE Java de sua preferência (ex: Eclipse, IntelliJ)
+
+## Como executar
+
+1. Clone ou faça o download deste repositório.
+
+2. Abra o projeto em sua IDE Java.
+
+3. Execute a classe `Main.java` localizada em `fatorial.Main`.
+
+4. Siga as instruções na tela para fornecer o número para cálculo do fatorial.
+
+5. O resultado será exibido na saída do console.
+
+
+
