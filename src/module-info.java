@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Felix
+ *
+ */
+module CalculaFatorial {
+}
